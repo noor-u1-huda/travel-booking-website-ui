@@ -27,7 +27,7 @@ A modern travel and tourism website interface focused on clean layout, booking f
 - Grid system
 
 ## 🔗 Figma Preview
-https://www.figma.com/design/cy44Od9b1j0XNg0UWgnQue/travel-website?node-id=0-1&t=YacEtQiy9XhBENMV-1
+https://www.figma.com/design/cy44Od9b1j0XNg0UWgnQue/travel-website?node-id=0-1&t=U82Zj0t7ddXD4kYT-1
 
 ## 📷 Screenshots
 Screenshots are added in this repository.
